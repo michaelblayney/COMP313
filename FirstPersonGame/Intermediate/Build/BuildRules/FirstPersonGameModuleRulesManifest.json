@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/michaelblayney/Documents/GitHub/COMP313-Assignment1/FirstPersonGame/Source/FirstPersonGame/FirstPersonGame.Build.cs",
+		"/Users/michaelblayney/Documents/GitHub/COMP313-Assignment1/FirstPersonGame/Source/FirstPersonGame.Target.cs",
+		"/Users/michaelblayney/Documents/GitHub/COMP313-Assignment1/FirstPersonGame/Source/FirstPersonGameEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

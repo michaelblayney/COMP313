@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FirstPersonGame",
+			"Path": "/Users/michaelblayney/Documents/GitHub/COMP313-Assignment1/FirstPersonGame/Source/FirstPersonGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FirstPersonGameEditor",
+			"Path": "/Users/michaelblayney/Documents/GitHub/COMP313-Assignment1/FirstPersonGame/Source/FirstPersonGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
