@@ -1,7 +1,8 @@
 # COMP313 - Assignment 1
 #### Michael Blayney - blaynemich - 300383642
 ### Game Name - Bellicose Balls
-#### Video:
+#### Video: https://drive.google.com/file/d/10M92aHfbwYsIhAEROBn3fGnSIvBGgJJv/view?usp=sharing
+(Backup link: https://www.youtube.com/watch?v=NBaBHM01UYY&ab_channel=MichaelBlayney)
 
 
 ***
